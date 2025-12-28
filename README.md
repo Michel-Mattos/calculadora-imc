@@ -8,4 +8,4 @@ Esta aplicação tem por finalidade colocar em prática os conhecimentos adquiri
 
 ![Imagem explicativa dos resultados da aplicação]([/image/resultado-imc.jpeg)
 
-Esta imagem foi tirada de [Markdown Live Preview](https://drrodrigomoraes.com.br/obesidade-e-emagrecimento/)
+Esta imagem foi tirada de [Dr. Rodrigo Moraes](https://drrodrigomoraes.com.br/obesidade-e-emagrecimento/)
